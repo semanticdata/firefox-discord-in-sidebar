@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "Discord in Sidebar",
-    "description": "Displays Discord in the sidebar.",
+    "description": "Displays Discord in the sidebar",
     "version": "1.0.1",
     "applications": {
         "gecko": {

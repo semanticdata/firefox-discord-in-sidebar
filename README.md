@@ -6,4 +6,4 @@ A Firefox WebExtension to display [Discord](https://discord.com/) in the sidebar
 
 This extension adds a new section to the Firefox sidebar which contains the Discord web app.
 
-Press Alt+Shift+6 to open. This shortcut can be changed by going to Add-ons -> Discord in Sidebar -> Options.
+Press `Alt+Shift+6` to open. This shortcut can be changed by going to Add-ons -> Discord in Sidebar -> Options.
