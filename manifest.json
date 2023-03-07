@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "Discord in Sidebar",
     "description": "Displays Discord in the sidebar.",
-    "version": "1.0",
+    "version": "1.0.1",
     "applications": {
         "gecko": {
           "strict_min_version": "60.0"
@@ -32,7 +32,7 @@
     "commands": {
         "_execute_sidebar_action": {
             "suggested_key": {
-                "default": "Alt+6"
+                "default": "Alt+Shift+6"
             },
             "description": "Toggle the Discord sidebar."
         }
