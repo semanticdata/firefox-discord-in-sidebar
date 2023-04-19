@@ -6,7 +6,7 @@ A Firefox WebExtension to display Fastmail within the Firefox sidebar. This exte
 
 ## How to Use
 
-1. Toggle the sidebar by pressing Alt+Shift+6. This shortcut can be changed by going to Add-ons -> Reddit in Sidebar -> Options.
+1. Toggle the sidebar by pressing Alt+Shift+6. This shortcut can be changed by going to Add-ons -> Discord in Sidebar -> Options.
 2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
