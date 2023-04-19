@@ -2,11 +2,16 @@
 
 # Discord in Sidebar
 
-A Firefox WebExtension to display [Discord](https://discord.com/) in the sidebar.
+A Firefox WebExtension to display Fastmail within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Fastmail website. It also adds a shortcut, and a button toggle within the toolbar.
 
-This extension adds a new section to the Firefox sidebar which contains the Discord web app.
+## How to Use
 
-Press `Alt+Shift+6` to open. This shortcut can be changed by going to Add-ons -> Discord in Sidebar -> Options.
+1. Toggle the sidebar by pressing Alt+Shift+6. This shortcut can be changed by going to Add-ons -> Reddit in Sidebar -> Options.
+2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
+
+## How to Unlock Firefox Sidebar Width
+
+The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my blog](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/).
 
 ## Disclaimer
 
