@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
 </p>
 
-A Firefox WebExtension to display Fastmail within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Fastmail website. It also adds a shortcut, and a button toggle within the toolbar.
+A Firefox WebExtension to display Discord within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Discord web app. It also adds a shortcut, and a button toggle within the toolbar.
 
 ## How to Use
 
@@ -17,7 +17,7 @@ A Firefox WebExtension to display Fastmail within the Firefox sidebar. This exte
 
 ## How to Unlock Firefox Sidebar Width
 
-The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my blog](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/).
+The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
 
 ## Disclaimer
 
