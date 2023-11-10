@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
 </p>
 
+## Introduction
+
 A Firefox WebExtension to display Discord within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Discord web app. It also adds a shortcut, and a button toggle within the toolbar.
 
 ## How to Use
