@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/amo/rating/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge" />
 <img src="https://img.shields.io/amo/dw/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge" />
 <img src="https://img.shields.io/amo/users/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/datastring/firefox-discord-in-sidebar?style=for-the-badge" />
 </p>
 
 ## Introduction
@@ -14,7 +14,7 @@ A Firefox WebExtension to display Discord within the Firefox sidebar. This exten
 
 ## How to Use
 
-1. Toggle the sidebar by pressing _`Alt+Shift+6`_. This shortcut can be changed by going to _`Add-ons` → `Discord in Sidebar` → `Options`_.
+1. Toggle the sidebar by pressing _`Alt+Shift+D`_. This shortcut can be changed by going to _`Add-ons` → `Discord in Sidebar` → `Options`_.
 2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
@@ -47,20 +47,24 @@ The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sideba
 
 ## Disclaimer
 
-This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use Discord on the Firefox sidebar. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to Discord in any way.
+This extension is an independent project, has no relationship, and is not affiliated to Discord in any way. This extension is primarily for personal use; a personal project if you will. This add-on <i>only</i> launches their web app in the sidebar.
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for **Mabuya**. Please
-search [existing issues](https://github.com/semanticdata/mabuya/issues). It’s
+We use GitHub Issues as the official bug tracker for this repository. Please
+search [existing issues](https://github.com/semanticdata/firefox-discord-in-sidebar/issues). It’s
 possible someone has already reported the same problem.
 
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/mabuya/issues/new).
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/firefox-discord-in-sidebar/issues/new).
 
 ## Contributing
 
 We'd love your help! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) to learn
 about the kinds of contributions we're looking for.
+
+## Acknowledgments
+
+Icons used for all my extensions are part of <a href="https://uxwing.com/">UXWing</a>'s collection. Take a look at their <a href="https://uxwing.com/license">license</a>.
 
 ## License
 
