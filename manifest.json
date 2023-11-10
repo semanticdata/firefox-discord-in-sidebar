@@ -4,13 +4,11 @@
   "description": "Displays Discord in the sidebar.",
   "version": "1.2",
   "background": {
-    "scripts": [
-      "background.js"
-    ]
+    "scripts": ["background.js"]
   },
   "applications": {
     "gecko": {
-      "strict_min_version": "60.0"
+      "strict_min_version": "73.0"
     }
   },
   "options_ui": {
@@ -39,8 +37,8 @@
   },
   "browser_action": {
     "default_icon": {
-      "48": "icons/discord-logo.png",
-      "96": "icons/discord-logo.png"
+      "48": "icons/icon1_48.png",
+      "96": "icons/icon1_96.png"
     }
   }
 }

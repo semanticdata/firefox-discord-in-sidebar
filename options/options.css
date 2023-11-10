@@ -38,9 +38,8 @@ input {
 }
 
 ::selection {
-	/* Set background color for selected text */
-	/* background: #7928CA; */
-	background: #165b67;
-	color: #FFFFFF;
+    /* Set background color for selected text */
+    /* background: #7928CA; */
+    background: #165b67;
+    color: #FFFFFF;
 }
-

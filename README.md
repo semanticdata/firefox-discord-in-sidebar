@@ -1,10 +1,10 @@
 <h1 align=center><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="64" height="64" /> Discord in Sidebar</h1>
 
 <p align=center>
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D">
-<img src="https://img.shields.io/amo/rating/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D" />
-<img src="https://img.shields.io/amo/dw/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D" />
-<img src="https://img.shields.io/amo/users/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D" />
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{a16c3799-d903-44e3-b044-a032197f5ef8}">
+<img src="https://img.shields.io/amo/rating/{a16c3799-d903-44e3-b044-a032197f5ef8}" />
+<img src="https://img.shields.io/amo/dw/{a16c3799-d903-44e3-b044-a032197f5ef8}" />
+<img src="https://img.shields.io/amo/users/{a16c3799-d903-44e3-b044-a032197f5ef8}" />
 <img src="https://img.shields.io/github/license/datastring/firefox-discord-in-sidebar" />
 </p>
 
