@@ -14,13 +14,12 @@ A Firefox WebExtension to display Discord within the Firefox sidebar. This exten
 
 ## How to Use
 
-1. Toggle the sidebar by pressing `Alt+Shift+6`. This shortcut can be changed by going to *Add-ons* → `Discord in Sidebar` → `Options`.
-2. Toggle the sidebar by pressing `Alt + Shift + 6`. This shortcut can be changed by going to **Add-ons** → `Discord in Sidebar` → `Options`.
-3. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
+1. Toggle the sidebar by pressing `Alt+Shift+6`. This shortcut can be changed by going to _Add-ons → `Discord in Sidebar` → Options_.
+2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
 
-The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
+The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
 
 ## Disclaimer
 
