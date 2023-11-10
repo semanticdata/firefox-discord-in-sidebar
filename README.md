@@ -14,7 +14,7 @@ A Firefox WebExtension to display Discord within the Firefox sidebar. This exten
 
 ## How to Use
 
-1. Toggle the sidebar by pressing `Alt+Shift+6`. This shortcut can be changed by going to _Add-ons → `Discord in Sidebar` → Options_.
+1. Toggle the sidebar by pressing _`Alt+Shift+6`_. This shortcut can be changed by going to _`Add-ons` → `Discord in Sidebar` → `Options`_.
 2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
@@ -24,3 +24,20 @@ The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sideba
 ## Disclaimer
 
 This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use Discord on the Firefox sidebar. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to Discord in any way.
+
+## Reporting Issues
+
+We use GitHub Issues as the official bug tracker for **Mabuya**. Please
+search [existing issues](https://github.com/semanticdata/mabuya/issues). It’s
+possible someone has already reported the same problem.
+
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/mabuya/issues/new).
+
+## Contributing
+
+We'd love your help! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) to learn
+about the kinds of contributions we're looking for.
+
+## License
+
+Source code in this repository is available under the [MIT](LICENSE) license. You are free to use this code however you see fit. That said, some acknowledgement would be well received.
