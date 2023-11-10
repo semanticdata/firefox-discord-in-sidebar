@@ -2,18 +2,18 @@
 
 ## Name
 
-[Discord] in Sidebar
+Discord in Sidebar
 
 ## Summary (< 250 chars)
 
-Displays [Discord] in the sidebar, provides customizable keyboard shortcut and toggle button.
+Displays Discord in the sidebar, provides customizable keyboard shortcut and toggle button.
 
 Follow my step-by-step guide to unlock the sidebar width on <a href="https://gist.github.com/semanticdata/ee0bca4f3617241aa98da114653c0b08">GitHub</a>.
 
 ## Description
 
 <b>Introduction</b>
-This Firefox Extension displays the Discord within the Firefox sidebar. It adds a new section to the sidebar which contains the [Discord] web app. It also provides a shortcut, and toggle button.
+This Firefox Extension displays the Discord within the Firefox sidebar. It adds a new section to the sidebar which contains the Discord web app. It also provides a shortcut, and toggle button.
 
 <b>How to Use</b>
 Toggle the sidebar by pressing <b>Alt+Shift+6</b>.
